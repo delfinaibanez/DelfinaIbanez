@@ -1,11 +1,12 @@
 
 <div id="header" align="center" >
-<img align="center " height= 200px widht= 200px src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
+
 <h1 align="center">Hola Mundo ! Soy Delfina </h1>
   
   <p align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F48FB1 &center=true&width=435&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /></a>
 </p> 
+
 
 <h3 align="center">Soy Estudiante Universitaria de la Carrera de Analista programador Universitario en Sistemas  </h3>
 <h3 align="center">Constantemente estoy aprendiendo tecnologias nuevas para relizar mejores Proyectos! <h3>
