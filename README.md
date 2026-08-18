@@ -14,6 +14,7 @@ Estudiante de la **Licenciatura en Sistemas de Información**.
 - CSS3
 - MySQL
 - Git & GitHub
+- Node Js
 
 ## 🌱 Actualmente
 
