@@ -2,7 +2,7 @@
 
 Estudiante de la **Licenciatura en Sistemas de Información**.
 
- Actualmente curso **tercer año** y estoy en camino a obtener el título de **Analista de Sistemas**.
+ Actualmente curso **4to año** y estoy en camino a obtener el título de **Analista de Sistemas**.
 
  Me interesa el **desarrollo web**, el diseño de interfaces y la creación de aplicaciones que resuelvan problemas reales.
 
