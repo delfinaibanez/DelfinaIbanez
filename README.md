@@ -18,7 +18,7 @@ Estudiante de la **Licenciatura en Sistemas de Información**.
 
 ## 🌱 Actualmente
 
-- Desarrollando proyectos con arquitectura MVC.
+- Desarrollando proyectos con arquitectura MVC y Arquitectura en Capas 
 - Aprendiendo buenas prácticas de desarrollo y control de versiones.
 - Mejorando mis habilidades en desarrollo frontend y backend.
 
