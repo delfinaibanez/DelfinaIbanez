@@ -8,7 +8,7 @@ Estudiante de la **Licenciatura en Sistemas de Información**.
 
 ## Tecnologías 
 
-- PHP
+
 - JavaScript
 - HTML5
 - CSS3
